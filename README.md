@@ -1,8 +1,26 @@
 ![Build Status](https://github.com/riverinyo/sort-visualizer/workflows/build_test/badge.svg)
 
-# Getting Started with Create React App
+# Sort Visualizer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an app for practice purposes.
+
+Demonstrate visually how the main sort algorithms work showing the indexes being checked and swapped at each iteration of the sort algorithm.
+
+Algorithms included:
+- bubble sort
+- selection sort
+- insertion sort
+- quick sort
+- merge sort
+
+## Usage
+Select a sort algorithm and hit start to run it and cancel to stop it.
+
+## Roadmap
+- Add settings:
+  - delay between iterations
+  - bar colors (inactive, active, swapping)
+
 
 ## Available Scripts
 
